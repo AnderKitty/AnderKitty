@@ -1,0 +1,62 @@
+export const translations = {
+  en: {
+    title: "Which Inside Out 2 Emotion Are You?",
+    selectGrade: "Select your grade:",
+    grade: "Grade",
+    agree: "Agree",
+    disagree: "Disagree",
+    result: "Your Inside Out 2 Emotion is:",
+    resultDescription: "This emotion reflects your personality based on your answers. Remember, we all have a mix of emotions that make us unique!",
+    emotionBreakdown: "Your Emotion Breakdown",
+    takeAgain: "Take the Test Again",
+    createdBy: "Created with",
+    by: "by Your Emotion Expert",
+    questions: [
+      "I often find myself worrying about future events.",
+      "I'm quick to notice when something isn't fair.",
+      "I tend to see the bright side of things, even in difficult situations.",
+      "I sometimes feel overwhelmed by my emotions.",
+      "I'm often cautious in new or unfamiliar situations.",
+      "I have a strong sense of right and wrong.",
+      "I enjoy making others laugh and smile.",
+      "I sometimes compare myself to others and feel inadequate.",
+      "I'm good at anticipating potential problems or risks.",
+      "I can be quite critical of things I don't like or agree with.",
+      "I bounce back quickly from disappointments.",
+      "I often feel the need to be perfect in everything I do.",
+      "I'm sensitive to other people's emotions and moods.",
+      "I can get frustrated easily when things don't go as planned.",
+      "I'm always excited to try new experiences and adventures."
+    ]
+  },
+  es: {
+    title: "¿Qué Emoción de Intensamente 2 Eres?",
+    selectGrade: "Selecciona tu grado:",
+    grade: "Grado",
+    agree: "De acuerdo",
+    disagree: "En desacuerdo",
+    result: "Tu Emoción de Intensamente 2 es:",
+    resultDescription: "Esta emoción refleja tu personalidad según tus respuestas. ¡Recuerda que todos tenemos una mezcla de emociones que nos hace únicos!",
+    emotionBreakdown: "Desglose de tus Emociones",
+    takeAgain: "Hacer el Test de Nuevo",
+    createdBy: "Creado con",
+    by: "por tu Experto en Emociones",
+    questions: [
+      "A menudo me preocupo por eventos futuros.",
+      "Noto rápidamente cuando algo no es justo.",
+      "Tiendo a ver el lado positivo de las cosas, incluso en situaciones difíciles.",
+      "A veces me siento abrumado/a por mis emociones.",
+      "Suelo ser cauteloso/a en situaciones nuevas o desconocidas.",
+      "Tengo un fuerte sentido de lo que está bien y mal.",
+      "Disfruto haciendo reír y sonreír a otros.",
+      "A veces me comparo con otros y me siento inadecuado/a.",
+      "Soy bueno/a anticipando posibles problemas o riesgos.",
+      "Puedo ser bastante crítico/a con las cosas que no me gustan.",
+      "Me recupero rápidamente de las decepciones.",
+      "A menudo siento la necesidad de ser perfecto/a en todo lo que hago.",
+      "Soy sensible a las emociones y estados de ánimo de otras personas.",
+      "Me frustro fácilmente cuando las cosas no salen según lo planeado.",
+      "Siempre estoy emocionado/a por probar nuevas experiencias y aventuras."
+    ]
+  }
+};
